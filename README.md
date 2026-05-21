@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 goodwill-v Vadim Zhludov
 
-<!--
-**goodwill-v/goodwill-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI • Full-Stack • Automation
 
-Here are some ideas to get you started:
+Создаю AI‑продукты, и практичные full‑stack‑системы, которые автоматизируют рабочие процессы, решают реальные задачи.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Что я делаю
+- AI‑ассистенты и чат‑продукты
+- Автоматизация и интеграции
+- Контент‑пайплайны и внутренние инструменты
+- Быстрые MVP и прототипы для тестов идей, проектов
+
+## ⭐ Избранные проекты
+- **rusalts** — AI‑платформа и контент‑инфраструктура для задач, связанных с адаптацией к изменениям в ИТ‑регулировании.
+- **AI-Assistant__school** — AI‑ассистент для школы итальянского языка с поддержкой диалога на двух языках, анализом грамматики диалога, различением изображений и интеграцией с календарём.
+- **PDF generation automation** — автоматизация создания официальных PDF‑документов из структурированных данных.
+
+## 🔍 Что мне интересно
+- Небольшие и средние проекты по автоматизации
+- AI‑ассистенты для бизнеса
+- Внутренние инструменты и интеграции
+- MVP, которые можно быстро запустить
+
+## 🛠 Стек / инструменты
+Python · FastAPI · Telegram‑боты · API · Docker · PostgreSQL · Векторные базы данных · LLM‑интеграции · GitHub Actions · Серверное развертывание · Сопровождение · Сайты-лендинги · 
+
+## 📫 Контакты
+Открыт к фрилансу, контрактам и пилотным проектам.
+Telegram: https://t.me/Vadim_zdrav
+МАКС:  https://max.ru/u/f9LHodD0cOK6gNMmsDRwupMfH3kwJVLcDcuW3vJK9mV0rvWB36UGey5F3wA
+Email: vadimpoint@gmail.com
+Website: https://rusalts.ru/
